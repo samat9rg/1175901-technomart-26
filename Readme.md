@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Samat Ergaziev](https://up.htmlacademy.ru/htmlcss/26/user/1175901).
-* Наставник: `Неизвестно`.
+* Наставник: [Катерина Чебакова](https://htmlacademy.ru/profile/id1102571).
 
 ---
 
